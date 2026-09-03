@@ -216,3 +216,44 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ==========================================
+# GERENCIADOR DE SCRIPTS - ESPECÍFICO
+# ==========================================
+
+# IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Arquivos compactados grandes
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Executáveis gerados
+*.exe
+
+# Logs
+*.log
+
+# Bancos de dados locais
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de cache
+.cache/
+
+# Dados gerados/localmente
+output/
+outputs/
+results/
