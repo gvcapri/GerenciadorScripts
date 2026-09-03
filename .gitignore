@@ -218,10 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 
-# ==========================================
-# GERENCIADOR DE SCRIPTS - ESPECÍFICO
-# ==========================================
-
 # IDE
 .vscode/
 .idea/
